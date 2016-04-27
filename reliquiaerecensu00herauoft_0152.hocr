@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./reliquiaerecensu00herauoft_0152.png"; bbox 0 0 2096 3459; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1979 3239 2066 3459">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1979 3239 2066 3459">
+     <span class='ocr_line' id='line_1_1' title="bbox 2029 3239 2066 3459; baseline -73.333 0"><span class='ocrx_word' id='word_1_1' title='bbox 2044 3239 2054 3248; x_wconf 59' lang='grc' dir='ltr'>μ</span> <span class='ocrx_word' id='word_1_2' title='bbox 2035 3274 2049 3295; x_wconf 75' lang='grc'>,,</span> <span class='ocrx_word' id='word_1_3' title='bbox 2051 3336 2057 3344; x_wconf 78' lang='grc'><strong>.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 2031 3364 2054 3397; x_wconf 49' lang='grc' dir='ltr'>«υ</span> <span class='ocrx_word' id='word_1_5' title='bbox 2029 3439 2066 3459; x_wconf 62' lang='lat' dir='ltr'>m</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 2008 3331 2030 3459"><span class='ocrx_word' id='word_1_6' title='bbox 2019 3331 2027 3341; x_wconf 38' lang='grc' dir='ltr'>,Α</span> <span class='ocrx_word' id='word_1_7' title='bbox 2010 3358 2030 3368; x_wconf 59' lang='lat'>.&gt;</span> <span class='ocrx_word' id='word_1_8' title='bbox 2012 3385 2020 3398; x_wconf 74' lang='grc' dir='ltr'>ι.</span> <span class='ocrx_word' id='word_1_9' title='bbox 2008 3442 2023 3459; x_wconf 57' lang='grc' dir='ltr'>,ιη</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1979 3330 2002 3459; baseline 64.5 -129"><span class='ocrx_word' id='word_1_10' title='bbox 1980 3330 1986 3338; x_wconf 81' lang='lat'><strong>.</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1979 3359 1999 3368; x_wconf 59' lang='lat'>2.</span> <span class='ocrx_word' id='word_1_12' title='bbox 1984 3387 1987 3391; x_wconf 85' lang='lat'>.</span> <span class='ocrx_word' id='word_1_13' title='bbox 1981 3444 2002 3459; x_wconf 45' lang='grc' dir='ltr'><strong>Α</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 2096 3459">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 2096 3459">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 2096 3459"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 2096 3459; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
